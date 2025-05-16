@@ -5,7 +5,8 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h3 align="center">Passionate Software Engineer | Exploring the Boundless World of Technology</h3>
-<p>a passionate Software Engineer and the founder of DETZ Global Pvt Ltd, where I focus on crafting innovative software solutions, modern web designs, and robust electrical systems. With a strong background in software development, cybersecurity, and entrepreneurship, I love turning ideas into impactful projects.</p>
+<p>I am a passionate Software Engineer at DETZ Global Pvt Ltd, specializing in crafting innovative software solutions, modern web designs, and robust electrical systems. With a strong background in software development, cybersecurity, and entrepreneurship, I enjoy turning ideas into impactful projects.</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirodrn&label=Profile%20views&color=0e75b6&style=flat" alt="nirodrn" /> </p>
 
