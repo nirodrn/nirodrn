@@ -75,7 +75,7 @@ As the Founder & CEO of <strong>DETZ Global Pvt Ltd</strong>, I lead a multi-dis
 
 <br/>
 
-<!-- ===================== STRATEGIC INITIATIVES ===================== -->
+<!-- ===================== STRATEGIC INITIVATES ===================== -->
 
 <h2 align="center">🌱 Strategic Development Initiatives</h2>
 
@@ -93,10 +93,27 @@ As the Founder & CEO of <strong>DETZ Global Pvt Ltd</strong>, I lead a multi-dis
 <h2 align="center">🔗 Connect With the CEO</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="38"/></a>
-<a href="https://stackoverflow.com"><img src="https://skillicons.dev/icons?i=stackoverflow" height="38"/></a>
-<a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" height="38"/></a>
-<a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" height="38"/></a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+</a>
+
+<!-- StackOverflow -->
+<a href="https://stackoverflow.com">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="38"/>
+</a>
+
+<!-- Facebook (UPDATED ICON YOU PROVIDED) -->
+<a href="https://facebook.com/">
+    <img src="https://i.ibb.co/7tKNB2QT/social-13051733.png" height="38" alt="Facebook Icon"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
+</a>
+
 </p>
 
 <br/>
@@ -117,7 +134,9 @@ A modern engineering foundation designed for performance, reliability, and globa
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics</h2>
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+</h2>
 
 <table align="center">
 <tr>
@@ -155,11 +174,7 @@ A modern engineering foundation designed for performance, reliability, and globa
 
 <h2 align="center">🤝 Partnership & Investment Opportunities</h2>
 
-<p style="line-height:1.7; font-size:15px;">
-Open to collaborating with investors, enterprise clients, and global partners seeking:
-</p>
-
-<ul style="line-height:1.7; font-size:15px;">
+<ul style="line-height:1.7; font-size:15px; max-width:900px; margin:auto;">
 <li>Enterprise software & high availability engineering.</li>
 <li>Cybersecurity architecture & digital risk management.</li>
 <li>System design, cloud scaling & platform modernization.</li>
